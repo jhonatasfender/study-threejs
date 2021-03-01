@@ -1,22 +1,23 @@
 {
-  "name": "study-threejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jhonatasfender/study-threejs.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jhonatasfender/study-threejs/issues"
-  },
-  "homepage": "https://github.com/jhonatasfender/study-threejs#readme",
-  "dependencies": {
-    "three": "^0.125.2"
-  }
+    "name": "study-threejs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "./start.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jhonatasfender/study-threejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jhonatasfender/study-threejs/issues"
+    },
+    "homepage": "https://github.com/jhonatasfender/study-threejs#readme",
+    "dependencies": {
+        "three": "^0.125.2"
+    }
 }
